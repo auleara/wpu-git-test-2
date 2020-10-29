@@ -9,5 +9,9 @@
 <body>
 <p>Bikin INDEX PHP</p>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente numquam eius quibusdam natus, dicta officia commodi libero quis ratione delectus temporibus ad eveniet amet. Facere quidem voluptatum autem praesentium ipsam?</p>
+<ul>
+    <li>Shey</li>
+    <li>Natasya</li>
+</ul>
 </body>
 </html>
